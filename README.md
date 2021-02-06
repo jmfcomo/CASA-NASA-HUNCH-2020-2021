@@ -42,7 +42,7 @@ A package file is built and placed in a subdirectory called dist. This package f
 cd dist
 pip install sparkfun_qwiic_bme280-<version>.tar.gz
 ```
-### Example Code
+### Running the Environmental Combo Sensor
 ```python
 #Copyright 2019 SparkFun Electronics
 
