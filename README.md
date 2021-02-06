@@ -1,6 +1,9 @@
 # CASA-NASA-HUNCH-2020-2021
 Repository for CASA's 2020-2021 Nano Ag Lab project
 
+## About
+CASA is competing in a NASA HUNCH challenge called the Nano Ag Lab. In this, we have to develop a generic agricultural Nanolab that can be used in a variety of experiments on the ISS. It will need to be able to collect sensor data for variables such as humidity, temperature, and gas levels and have both manual and automatic control of these variables. It will all need to fit in a 10x10x20 cm box.
+
 ## Environmental Combo Sensor
 Sparkfun had examples of code for running both the bme280 sensors and ccs811 sensors, but we wanted to run both at the same time for the project, so we made some code based on the example code written by kirk-sfe at SparkFun. The installation instructions for the python packages were written by them as well.
 
@@ -94,3 +97,4 @@ def runSensors():
 		time.sleep(1)
 
 runSensors()
+```
