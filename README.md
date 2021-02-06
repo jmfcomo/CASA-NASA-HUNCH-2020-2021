@@ -2,7 +2,7 @@
 Repository for CASA's 2020-2021 Nano Ag Lab project
 
 ## Environmental Combo Sensor
-Sparkfun had examples of code for running both the bme280 sensors and ccs811 sensors, but we wanted to run both at the same time, so we made some example code based on the example code written by kirk-sfe at SparkFun. The installation instructions for the python packages were written by them as well.
+Sparkfun had examples of code for running both the bme280 sensors and ccs811 sensors, but we wanted to run both at the same time for the project, so we made some code based on the example code written by kirk-sfe at SparkFun. The installation instructions for the python packages were written by them as well.
 
 Uses python packages: sparkfun-qwiic-bme280 and sparkfun-qwiic-ccs811, developed by SparkFun Electronics
 
